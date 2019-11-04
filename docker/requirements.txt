@@ -1,2 +1,4 @@
 bigml
 kaggle
+rise
+jupyter_contrib_nbextensions
