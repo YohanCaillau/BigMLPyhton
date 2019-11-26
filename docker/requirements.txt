@@ -1,4 +1,5 @@
-bigml
-kaggle
 rise
+kaggle
+bigML
+pandas_ml
 jupyter_contrib_nbextensions
